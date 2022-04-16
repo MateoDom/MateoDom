@@ -3,8 +3,9 @@
 
 # Hola, soy Mateo Dominguez 👋
 ## Quien soy?
-Soy un Full-Stack Web Developer, apasionado por las nuevas tecnologias. En mi tiempo libre me gusta investigar acerca de ellas para adquirir nuevos conocimientos. Antes de programar estudie Lic. En Administracion de Empresas.
-Y actualmente estoy buscando mi primera experiencia laboral!
+
+Soy un Full-Stack Web Developer🙌🙌, apasionado por las nuevas tecnologias. En mi tiempo libre me gusta investigar acerca de ellas para adquirir nuevos conocimientos. Antes de programar estudie Lic. En Administracion de Empresas.
+Y actualmente estoy buscando mi primera experiencia laboral 👀👀
 
 ## Tecnologías:
 <div > 
@@ -23,7 +24,7 @@ Y actualmente estoy buscando mi primera experiencia laboral!
  ## Proyectos:
  ### [Pi-Countries](https://countries-app-delta-lac.vercel.app/)
  
- ## Contacto
+ ## Contacto:
  📧: matedom22@gmail.com
  💻: https://www.linkedin.com/in/mateo-dominguez-139b94207/
  
