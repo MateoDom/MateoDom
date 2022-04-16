@@ -4,8 +4,8 @@
 # Hola, soy Mateo Dominguez 👋
 ## Quien soy?
 
-Soy un Full-Stack Web Developer🙌🙌, apasionado por las nuevas tecnologias. En mi tiempo libre me gusta investigar acerca de ellas para adquirir nuevos conocimientos. Antes de programar estudie Lic. En Administracion de Empresas.
-Y actualmente estoy buscando mi primera experiencia laboral 👀👀
+### Soy un Full-Stack Web Developer🙌🙌, apasionado por las nuevas tecnologias. Tengo 20 años y vivo en Bs As, Argentina. En mi tiempo libre me gusta investigar acerca de ellas para adquirir nuevos conocimientos. Antes de programar estudie Lic. En Administracion de Empresas.
+### Y actualmente estoy buscando mi primera experiencia laboral 👀👀
 
 ## Tecnologías:
 <div > 
@@ -19,13 +19,18 @@ Y actualmente estoy buscando mi primera experiencia laboral 👀👀
 <img src='https://www.muylinux.com/wp-content/uploads/2017/10/postgresql.png' width="80px" alt="postgres" />
 <img src='https://i.blogs.es/91493f/sequelize/1366_2000.png' width="80px"alt="sequelize"/>
 <img src='https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png' width="50px" alt="bootstrap" />
+
  </div>
  
  ## Proyectos:
  ### [Pi-Countries](https://countries-app-delta-lac.vercel.app/)
  
  ## Contacto:
- 📧: matedom22@gmail.com
- 💻: https://www.linkedin.com/in/mateo-dominguez-139b94207/
+<a href="mailto:elcorreoquequieres@correo.com"> 
+<img src='https://cdn-icons-png.flaticon.com/512/281/281769.png' width="70px" />
+</a>
+ <a href="https://www.linkedin.com/in/mateo-dominguez-139b94207/"> 
+ <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width="70px" />
+  </a>
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateodom)](https://github.com/anuraghazra/github-readme-stats)
