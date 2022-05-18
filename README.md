@@ -24,6 +24,8 @@
  
  ## Proyectos:
  ### [Pi-Countries](https://countries-app-delta-lac.vercel.app/)
+ ### [Higher-Lower-Game](https://higher-or-lower-goals.vercel.app/)
+ ### [BookFlix](https://booksflix.vercel.app/)
  
  ## Contacto:
 <a href="mailto:elcorreoquequieres@correo.com"> 
