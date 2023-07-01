@@ -1,6 +1,6 @@
 # Hola, soy Mateo Dominguez 👋
 
-## Soy un Full-Stack Web Developer🙌🙌, apasionado por las nuevas tecnologias. Tengo 22 años y vivo en Córdoba, Argentina. En mi tiempo libre me gusta investigar acerca de ellas para adquirir nuevos conocimientos. Antes de programar estudie Lic. En Administracion de Empresas.
+## Soy un Full-Stack Web Developer🙌🙌, apasionado por las nuevas tecnologias. Tengo 22 años y vivo en Córdoba, Argentina. En mi tiempo libre me gusta investigar acerca de ellas para adquirir nuevos conocimientos. Actualmente me encuentro trabajando como Frontend Developer.
 
 
 ## Tecnologías:
