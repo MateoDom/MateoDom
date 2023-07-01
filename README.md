@@ -1,10 +1,6 @@
-<img src='https://static.wixstatic.com/media/e2654e_73fdbd00a76f41948416260d1f9d97fa~mv2.gif' alt="gif"/>
-
-
 # Hola, soy Mateo Dominguez 👋
-## Quien soy?
 
-### Soy un Full-Stack Web Developer🙌🙌, apasionado por las nuevas tecnologias. Tengo 21 años y vivo en Córdoba, Argentina. En mi tiempo libre me gusta investigar acerca de ellas para adquirir nuevos conocimientos. Antes de programar estudie Lic. En Administracion de Empresas.
+## Soy un Full-Stack Web Developer🙌🙌, apasionado por las nuevas tecnologias. Tengo 22 años y vivo en Córdoba, Argentina. En mi tiempo libre me gusta investigar acerca de ellas para adquirir nuevos conocimientos. Antes de programar estudie Lic. En Administracion de Empresas.
 
 
 ## Tecnologías:
@@ -22,10 +18,6 @@
 
  </div>
  
- ## Proyectos:
- ### [Pi-Countries](https://countries-app-delta-lac.vercel.app/)
- ### [Higher-Lower-Game](https://higher-or-lower-goals.vercel.app/)
- ### [BookFlix](https://booksflix.vercel.app/)
  
  ## Contacto:
 <a href="mailto:elcorreoquequieres@correo.com"> 
