@@ -1,30 +1,31 @@
-# Hola, soy Mateo Dominguez 👋
+## Hello World 👋 It's Mateo
+I'm a Software Developer from Argentina 🇦🇷. 
+♥ React + Typescript 
 
-## Soy un Full-Stack Web Developer🙌🙌, apasionado por las nuevas tecnologias. Tengo 22 años y vivo en Córdoba, Argentina. En mi tiempo libre me gusta investigar acerca de ellas para adquirir nuevos conocimientos. Actualmente me encuentro trabajando como Frontend Developer.
-
-
-## Tecnologías:
-<div > 
-
-<img src='https://cdn-icons-png.flaticon.com/512/174/174854.png' width="50px" alt="html"/>
-<img src='https://cdn-icons-png.flaticon.com/512/919/919826.png' width="50px" alt="css" />
-<img src='https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png' width="50px" alt="javascript" />
-<img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png' width="50px" alt="react" />
-<img src='https://cms-assets.tutsplus.com/uploads/users/1795/posts/30352/preview_image/ReduxLogo.jpg' width="70px" alt="redux" />
-<img src='https://img2.freepng.es/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg' width="50px" alt="node" />
-<img src='https://www.muylinux.com/wp-content/uploads/2017/10/postgresql.png' width="80px" alt="postgres" />
-<img src='https://i.blogs.es/91493f/sequelize/1366_2000.png' width="80px"alt="sequelize"/>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png' width='50px' alt='typescript' />
-
- </div>
- 
- 
- ## Contacto:
-<a href="mailto:elcorreoquequieres@correo.com"> 
-<img src='https://cdn-icons-png.flaticon.com/512/281/281769.png' width="70px" />
+<br/>
+<a href="mailto:matedom22@gmail.com"> 
+<img align="left" src='https://icongr.am/fontawesome/envelope-o.svg?size=128&color=70c8ff' width="22px" />
 </a>
- <a href="https://www.linkedin.com/in/mateo-dominguez-139b94207/"> 
- <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width="70px" />
-  </a>
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateodom)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.linkedin.com/in/mateo-dominguez-139b94207/">
+<img align="left" alt="Mateo Dominguez Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+
+<br />
+
+## What i'm up to
+
+- 🔭 Currently working as a Frontend Developer with React at @ [Wellet](https://wellet.us/es).
+- 🌱 Exploring backend development with Java to broaden my full-stack capabilities.
+
+<br />
+
+## Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+---
+![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateodom&show_icons=true&hide_border=true)
