@@ -7,7 +7,7 @@ I'm a Software Developer from Argentina 🇦🇷.
 <img align="left" src='https://icongr.am/fontawesome/envelope-o.svg?size=128&color=70c8ff' width="22px" />
 </a>
 
-<a href="https://www.linkedin.com/in/mateo-dominguez-139b94207/">
+<a href="https://www.linkedin.com/in/mateodominguez-/">
 <img align="left" alt="Mateo Dominguez Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
